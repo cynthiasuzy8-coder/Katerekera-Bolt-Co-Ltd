@@ -1,0 +1,8 @@
+{
+  "name": "Katerekera Bolt Co Ltd - Heavy Building Materials & Fasteners",
+  "description": "Industrial distributor of structural fasteners, high-tensile bolts, reinforcement steel, roofing sheets, and civil construction materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
